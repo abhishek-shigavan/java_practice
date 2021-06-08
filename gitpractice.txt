@@ -6,5 +6,5 @@ This is gitpractice file
 // local change to ensure make sure conflict will take place 
 
 
-// remote change to ensure conflict
+// remote change to make sure conflict will happen
 
