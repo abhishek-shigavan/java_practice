@@ -2,4 +2,9 @@ This is gitpractice file
 
 // 1st remote chnage
 
+
 // local change to ensure conflict 
+
+
+// remote change to ensure conflict
+
