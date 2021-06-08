@@ -7,4 +7,8 @@ This is gitpractice file
 
 
 // remote change to make sure conflict will happen
+
 // local change
+
+//remote change
+
