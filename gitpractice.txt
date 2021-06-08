@@ -3,7 +3,7 @@ This is gitpractice file
 // 1st remote chnage
 
 
-// local change to ensure conflict 
+// local change to ensure make sure conflict will take place 
 
 
 // remote change to ensure conflict
